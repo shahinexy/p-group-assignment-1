@@ -16,6 +16,7 @@ body{
 .container{
     max-width: 1280px;
     margin: 0px auto;
+    overflow: hidden;
 }
 .row{
     display: flex;
@@ -75,7 +76,6 @@ p{
 ================ */
 .card_section{
     width: 100%;
-    overflow: hiddengit add;
 }
 .card_section .col_md_3{
     display: flex;
