@@ -75,6 +75,7 @@ p{
 ================ */
 .card_section{
     width: 100%;
+    overflow: hiddengit add;
 }
 .card_section .col_md_3{
     display: flex;
