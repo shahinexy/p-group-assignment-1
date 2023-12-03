@@ -178,3 +178,12 @@ p{
 .col_2 .title{
     color: #fff;
 }
+
+.footer_bg{
+    background-color: black;
+    padding: 50px 0;
+    color: #fff;
+}
+.footer_color{
+    color: rgb(250, 92, 118);
+}
