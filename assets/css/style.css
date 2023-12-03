@@ -79,6 +79,7 @@ p{
 .card_section .col_md_3{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .card_img img{
     position: absolute;
