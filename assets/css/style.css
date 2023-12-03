@@ -133,3 +133,30 @@ p{
     width: 80%;
     margin: 0 10px;
 }
+
+
+/* ===============
+   Subscribe area
+==================*/
+.row .row_flex{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 50px  0;
+}
+.subscribe{
+    width: 65%;
+    text-align: center;
+    background-image: url(../image/Rectangle9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+}
+
+.subscripbe_btn .main_btn{
+    padding: 10px 20px;
+}
+.input{
+    width: 40%;
+    padding: 8px;
+}
