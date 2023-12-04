@@ -10,6 +10,16 @@
 /* break point MD 768px */
 /* ============================== */
 @media screen and (max-width: 768px) {
+    h1{
+        font-size: 35px;
+    }
+    h2{
+        font-size: 27px;
+    }
+    p{
+        font-size: 15px;
+    }
+
     /* hero area  */
     .row {
         display: inherit;
@@ -39,6 +49,10 @@
 
     }
 
+    /* insta img  */
+    .insta_img{
+        margin: 20px 0;
+    }
     /* sell area  */
     .mid_hero{
         display: inherit;
