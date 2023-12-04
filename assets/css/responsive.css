@@ -1,0 +1,38 @@
+/* Break point LG 992px */
+@media screen and (max-width: 992px) {
+    .hero_img img{
+        width: 400px;
+    }
+}
+
+/* break point MD 768px */
+@media screen and (max-width: 768px) {
+    /* hero area  */
+    .row {
+        display: inherit;
+    }
+    .col_md_6{
+        width: 100% !important;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .hero_text{
+        margin: 20px 0;
+    }
+    .hero_img img{
+        width: 250px;
+    }
+
+    /* flower card area  */
+    .card_section{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .card_section .col_md_3{
+        display: inherit;
+        justify-content: center;
+
+    }
+}

@@ -52,6 +52,9 @@ p{
     display: flex;
     align-items: center;
 }
+.hero_text{
+    margin: 0 10px;
+}
 .hero_text h1{
     margin-bottom: 10px;
 }
@@ -113,7 +116,7 @@ p{
 }
 
 /* ==========
-   mid area
+   sell area
 ============= */
 .mid_hero_img img{
     width: 100%;
