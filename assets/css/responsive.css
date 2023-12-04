@@ -1,11 +1,14 @@
+/* ============================= */
 /* Break point LG 992px */
+/* ============================ */
 @media screen and (max-width: 992px) {
     .hero_img img{
         width: 400px;
     }
 }
-
+/* =========================== */
 /* break point MD 768px */
+/* ============================== */
 @media screen and (max-width: 768px) {
     /* hero area  */
     .row {
@@ -18,7 +21,7 @@
         justify-content: center;
     }
     .hero_text{
-        margin: 20px 0;
+        margin: 20px 10px;
     }
     .hero_img img{
         width: 250px;
@@ -35,4 +38,21 @@
         justify-content: center;
 
     }
+
+    /* sell area  */
+    .mid_hero{
+        display: inherit;
+    }
+    .mid_hero_img img {
+        width: 70%;
+    }
+
+    /* discount area  */
+    .discount_area{
+        display: inline;
+    }
+    .discount_img{
+        margin-top: 15px ;
+    }
+
 }
